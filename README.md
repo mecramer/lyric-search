@@ -1,4 +1,4 @@
-# lyric-search
+# Artist/Song Lyric Search
 
 This page lets a user search for a song or artist and get a listing of all restuls
 
